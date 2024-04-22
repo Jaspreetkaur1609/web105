@@ -1,0 +1,54 @@
+body{
+   font-family:arial ,sans-serif;
+   }
+   
+nav{
+  background-color:red;
+  color:green;
+  margin:20px;
+  text-align:centre;
+  font-size:50px;
+  }
+  
+  nav ul{
+  list-style-type:none;
+  margin:0px;
+  padding:20px;
+  color:pink;
+  
+ 
+  }  nav ul li{
+  link-style-type:none;
+  Display:inline;
+  font-size:40px;
+  margin-right:150px;
+  color:brown;
+  }
+  
+  header{
+  text-align:centre;
+  background-color:red;
+  padding:50px;
+  margin-bottom:140px;
+  }
+  h1{
+  color:yellow;
+  }
+  h2{
+  color:brown;
+  }
+  p{
+  color:grey;
+  }
+  section{
+      padding:50px;
+	  margin-bottom:130px;
+  }
+  #contact{
+	  background-color:blue;
+	  padding:50px;
+	  margin:0px;
+  }
+  
+  
+  
